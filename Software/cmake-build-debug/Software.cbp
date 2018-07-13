@@ -118,10 +118,10 @@
 					<Add directory="/home/elektron/Documents/LabSud/mqtt_esp32_evb/Software/.piolibdeps/Keypad_ID165/src"/>
 					<Add directory="/home/elektron/.platformio/packages/framework-arduinoespressif32/libraries/SPI/src"/>
 					<Add directory="/home/elektron/Documents/LabSud/mqtt_esp32_evb/Software/.piolibdeps/MFRC522_ID63/src"/>
-					<Add directory="/home/elektron/.platformio/packages/framework-arduinoespressif32/libraries/FS/src"/>
 					<Add directory="/home/elektron/Documents/LabSud/mqtt_esp32_evb/Software/.piolibdeps/PubSubClient_ID89/src"/>
 					<Add directory="/home/elektron/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src"/>
 					<Add directory="/home/elektron/Documents/LabSud/mqtt_esp32_evb/Software/.piolibdeps/ESP8266_SSD1306_ID562"/>
+					<Add directory="/home/elektron/.platformio/packages/framework-arduinoespressif32/libraries/FS/src"/>
 					<Add directory="/home/elektron/Documents/LabSud/mqtt_esp32_evb/Software/.piolibdeps/Adafruit PN532_ID29"/>
 					<Add directory="/home/elektron/Documents/LabSud/mqtt_esp32_evb/Software/.piolibdeps/Blynk_ID415/src"/>
 					<Add directory="/home/elektron/.platformio/packages/framework-arduinoespressif32/libraries/ArduinoOTA/src"/>
@@ -213,10 +213,10 @@
 					<Add directory="/home/elektron/Documents/LabSud/mqtt_esp32_evb/Software/.piolibdeps/Keypad_ID165/src"/>
 					<Add directory="/home/elektron/.platformio/packages/framework-arduinoespressif32/libraries/SPI/src"/>
 					<Add directory="/home/elektron/Documents/LabSud/mqtt_esp32_evb/Software/.piolibdeps/MFRC522_ID63/src"/>
-					<Add directory="/home/elektron/.platformio/packages/framework-arduinoespressif32/libraries/FS/src"/>
 					<Add directory="/home/elektron/Documents/LabSud/mqtt_esp32_evb/Software/.piolibdeps/PubSubClient_ID89/src"/>
 					<Add directory="/home/elektron/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src"/>
 					<Add directory="/home/elektron/Documents/LabSud/mqtt_esp32_evb/Software/.piolibdeps/ESP8266_SSD1306_ID562"/>
+					<Add directory="/home/elektron/.platformio/packages/framework-arduinoespressif32/libraries/FS/src"/>
 					<Add directory="/home/elektron/Documents/LabSud/mqtt_esp32_evb/Software/.piolibdeps/Adafruit PN532_ID29"/>
 					<Add directory="/home/elektron/Documents/LabSud/mqtt_esp32_evb/Software/.piolibdeps/Blynk_ID415/src"/>
 					<Add directory="/home/elektron/.platformio/packages/framework-arduinoespressif32/libraries/ArduinoOTA/src"/>
