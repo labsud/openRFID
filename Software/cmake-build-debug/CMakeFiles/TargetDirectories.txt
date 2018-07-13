@@ -1,0 +1,11 @@
+/home/elektron/Documents/LabSud/mqtt_esp32_evb/Software/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/elektron/Documents/LabSud/mqtt_esp32_evb/Software/cmake-build-debug/CMakeFiles/PLATFORMIO_BUILD.dir
+/home/elektron/Documents/LabSud/mqtt_esp32_evb/Software/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOAD.dir
+/home/elektron/Documents/LabSud/mqtt_esp32_evb/Software/cmake-build-debug/CMakeFiles/PLATFORMIO_CLEAN.dir
+/home/elektron/Documents/LabSud/mqtt_esp32_evb/Software/cmake-build-debug/CMakeFiles/PLATFORMIO_PROGRAM.dir
+/home/elektron/Documents/LabSud/mqtt_esp32_evb/Software/cmake-build-debug/CMakeFiles/Software.dir
+/home/elektron/Documents/LabSud/mqtt_esp32_evb/Software/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/elektron/Documents/LabSud/mqtt_esp32_evb/Software/cmake-build-debug/CMakeFiles/PLATFORMIO_TEST.dir
+/home/elektron/Documents/LabSud/mqtt_esp32_evb/Software/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOADFS.dir
+/home/elektron/Documents/LabSud/mqtt_esp32_evb/Software/cmake-build-debug/CMakeFiles/PLATFORMIO_REBUILD_PROJECT_INDEX.dir
+/home/elektron/Documents/LabSud/mqtt_esp32_evb/Software/cmake-build-debug/CMakeFiles/PLATFORMIO_UPDATE_ALL.dir
