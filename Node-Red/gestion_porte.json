@@ -1,0 +1,1 @@
+[{"id":"fb603071.2572a","type":"mysql","z":"99199b48.2dd458","mydb":"a84e5547.15bb8","name":"","x":544.375,"y":446.25,"wires":[["e1be76f3.c72d","af88f526.8b912","b55a058.3a431f8"]]},{"id":"a84e5547.15bb8","type":"MySQLdatabase","z":"","host":"","port":"3306","db":"labsud","tz":""}]
